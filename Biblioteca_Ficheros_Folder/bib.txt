@@ -1,0 +1,41 @@
+5
+8
+JRR Martin
+3
+Juego de tronos;Choque de reyes;Festin de cuervos;
+Dan Gookin
+1
+C for dummies;
+Isaac Assimov
+2
+Fundacion;Yo, robot;
+Julio Valdeon
+1
+La espa¤a medieval;
+Joaquin
+1
+Novelitas;;
+Juego de tronos
+JRR Martin
+Novelas
+Choque de reyes
+JRR Martin
+Novelas
+C for dummies
+Dan Gookin
+Didacticos
+La espa¤a medieval
+Julio Valdeon
+Cronicas
+Fundacion
+Isaac Assimov
+Novelas
+Festin de cuervos
+JRR Martin
+Novelas
+Yo, robot
+Isaac Assimov
+Novelas
+Novelitas
+Joaquin
+Novelas
